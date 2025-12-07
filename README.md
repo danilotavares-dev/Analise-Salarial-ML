@@ -26,7 +26,6 @@ Esse tipo de análise é útil para **recursos humanos**, **consultorias de carr
 - **Scikit-learn** — criação e avaliação do modelo de Machine Learning  
 - **Matplotlib** — visualização dos dados  
 - **Streamlit** — interface interativa para uso do modelo  
-- **Flask / FastAPI** — disponibilização do modelo como API  
 - **Pipenv** — gerenciamento de dependências  
 - **Pickle** — serialização do modelo treinado  
 
